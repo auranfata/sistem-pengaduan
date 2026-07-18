@@ -1,0 +1,10 @@
+# Sistem Pengaduan Masyarakat — Dependencies
+# Semua library di bawah ini sudah built-in di Python 3.x
+# TIDAK perlu pip install apapun!
+
+# tkinter  — GUI (bawaan Python)
+# sqlite3  — Database (bawaan Python)
+# os, sys  — Utility (bawaan Python)
+
+# Jika tkinter tidak tersedia (Linux minimal):
+# sudo apt-get install python3-tk
