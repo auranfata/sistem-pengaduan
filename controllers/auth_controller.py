@@ -1,11 +1,3 @@
-"""
-controllers/auth_controller.py
--------------------------------
-KONTRIBUTOR : Anggota B
-BRANCH      : feature/auth
-TUGAS       : Logika bisnis untuk login dan registrasi
-"""
-
 from models.user_model import cari_user_by_username, buat_user
 
 

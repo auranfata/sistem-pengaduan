@@ -1,10 +1,3 @@
-"""
-main.py
---------
-KONTRIBUTOR : Lead (Auran)
-TUGAS       : Entry point — inisialisasi DB lalu jalankan LoginView
-"""
-
 import sys
 import os
 

@@ -1,11 +1,3 @@
-"""
-views/list_pengaduan_view.py
------------------------------
-KONTRIBUTOR : Anggota E
-BRANCH      : feature/list-pengaduan
-TUGAS       : Tabel daftar pengaduan + detail popup + ubah status (admin)
-"""
-
 import tkinter as tk
 from tkinter import ttk
 from controllers.pengaduan_controller import (

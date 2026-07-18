@@ -1,11 +1,3 @@
-"""
-controllers/pengaduan_controller.py
--------------------------------------
-KONTRIBUTOR : Anggota C
-BRANCH      : feature/pengaduan-controller
-TUGAS       : Logika bisnis untuk operasi pengaduan
-"""
-
 from models.pengaduan_model import (
     buat_pengaduan,
     ambil_pengaduan_by_user,

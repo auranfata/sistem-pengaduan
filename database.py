@@ -1,11 +1,3 @@
-"""
-database.py
------------
-KONTRIBUTOR : Anggota A
-BRANCH      : feature/database-setup
-TUGAS       : Membuat koneksi SQLite dan inisialisasi tabel
-"""
-
 import sqlite3
 import os
 

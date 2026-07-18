@@ -1,11 +1,3 @@
-"""
-views/login_view.py
---------------------
-KONTRIBUTOR : Anggota D
-BRANCH      : feature/login-view
-TUGAS       : Tampilan halaman Login dan Register
-"""
-
 import tkinter as tk
 from tkinter import ttk
 from controllers.auth_controller import login, register

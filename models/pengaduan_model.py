@@ -1,11 +1,3 @@
-"""
-models/pengaduan_model.py
--------------------------
-KONTRIBUTOR : Anggota A
-BRANCH      : feature/pengaduan-model
-TUGAS       : Operasi database untuk tabel pengaduan
-"""
-
 from database import get_connection
 
 

@@ -1,11 +1,3 @@
-"""
-views/dashboard_view.py
-------------------------
-KONTRIBUTOR : Anggota D
-BRANCH      : feature/dashboard-view
-TUGAS       : Shell navigasi utama setelah login (warga & admin)
-"""
-
 import tkinter as tk
 from tkinter import ttk
 from utils.helpers import WARNA, FONT, buat_tombol, tengahkan_window

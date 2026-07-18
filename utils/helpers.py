@@ -1,10 +1,3 @@
-"""
-utils/helpers.py
-----------------
-KONTRIBUTOR : Siapapun (shared utility)
-TUGAS       : Fungsi-fungsi kecil yang dipakai lintas modul
-"""
-
 import tkinter as tk
 from tkinter import messagebox
 
