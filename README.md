@@ -133,4 +133,4 @@ git push origin dev
 
 ---
 
-*Tugas Mata Kuliah Pemrograman Berorientasi Objek — Teknik Informatika, Universitas Muhammadiyah Cirebon*
+*Tugas Mata Kuliah Rekayasa Perangkat Lunak — Teknik Informatika, Universitas Muhammadiyah Cirebon*
