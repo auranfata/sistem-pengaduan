@@ -1,11 +1,3 @@
-"""
-models/user_model.py
---------------------
-KONTRIBUTOR : Anggota B
-BRANCH      : feature/auth
-TUGAS       : Operasi database untuk tabel users (login, register)
-"""
-
 from database import get_connection
 
 

@@ -1,11 +1,3 @@
-"""
-views/form_pengaduan_view.py
------------------------------
-KONTRIBUTOR : Anggota E
-BRANCH      : feature/form-pengaduan
-TUGAS       : Form input untuk mengirimkan pengaduan baru
-"""
-
 import tkinter as tk
 from tkinter import ttk
 from controllers.pengaduan_controller import kirim_pengaduan, KATEGORI_VALID
